@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2003-EP
+D LIN J2602 Transceiver
+F http://ww1.microchip.com/downloads/en/devicedoc/22230a.pdf
+$ENDCMP
+#
+#End Doc Library
