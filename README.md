@@ -14,8 +14,6 @@ Please support MKE by purchasing products on [Tindie](https://www.tindie.com/sto
 
 Designed by Mike Kushnerik for MKEngineering
 
-Licensed under Creative Commons Attribution-ShareAlike CC BY-SA 3.0
-
-http://creativecommons.org/licenses/by-sa/3.0/
+Licensed under [Creative Commons Attribution-ShareAlike CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 
 All text above must be included in any redistribution!
